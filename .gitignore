@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+PokuProject1/[Ll]ibrary/
+PokuProject1/[Tt]emp/
+PokuProject1/[Oo]bj/
+PokuProject1/[Bb]uild/
+PokuProject1/[Bb]uilds/
+PokuProject1/[Ll]ogs/
+PokuProject1/[Uu]ser[Ss]ettings/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -51,6 +59,7 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
